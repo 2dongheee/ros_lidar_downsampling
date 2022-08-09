@@ -14,7 +14,7 @@ ROS LiDAR DownSampling
 ![test_multicam](./image/lidar_downsampling.png)
 
 * Compare before and after result (Number of Points)
-* 
+
 ![test_multicam2](./image/log.png)
 
 #
